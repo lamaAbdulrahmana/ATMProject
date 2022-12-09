@@ -1,0 +1,6 @@
+This Project intend to teach Exception handling on Python.
+
+An exception is an error that occurs during the execution of a program. However, while
+running a program, Python throws an exception that must be handled in order for your
+application not to crash. Exceptions in Python are triggered automatically on errors, or
+they can be created and intercepted by your code.
